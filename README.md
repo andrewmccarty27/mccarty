@@ -1,2 +1,1 @@
-# mccarty
 Testing
